@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task8_ConcatStringsAndCast\Task8_ConcatStringsAndCast\bin\Debug\Task8_ConcatStringsAndCast.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task8_ConcatStringsAndCast\Task8_ConcatStringsAndCast\bin\Debug\Task8_ConcatStringsAndCast.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task8_ConcatStringsAndCast\Task8_ConcatStringsAndCast\bin\Debug\Task8_ConcatStringsAndCast.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task8_ConcatStringsAndCast\Task8_ConcatStringsAndCast\obj\Debug\Task8_ConcatStringsAndCast.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task8_ConcatStringsAndCast\Task8_ConcatStringsAndCast\obj\Debug\Task8_ConcatStringsAndCast.pdb

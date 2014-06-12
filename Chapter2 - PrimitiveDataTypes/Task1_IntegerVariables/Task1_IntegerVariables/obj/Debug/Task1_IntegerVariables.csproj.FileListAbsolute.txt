@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task1_IntegerVariables\Task1_IntegerVariables\bin\Debug\Task1_IntegerVariables.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task1_IntegerVariables\Task1_IntegerVariables\bin\Debug\Task1_IntegerVariables.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task1_IntegerVariables\Task1_IntegerVariables\bin\Debug\Task1_IntegerVariables.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task1_IntegerVariables\Task1_IntegerVariables\obj\Debug\Task1_IntegerVariables.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task1_IntegerVariables\Task1_IntegerVariables\obj\Debug\Task1_IntegerVariables.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task1_IntegerVariables\Task1_IntegerVariables\obj\Debug\Task1_IntegerVariables.pdb

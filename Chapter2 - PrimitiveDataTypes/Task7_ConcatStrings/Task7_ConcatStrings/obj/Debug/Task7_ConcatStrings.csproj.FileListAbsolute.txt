@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task7_ConcatStrings\Task7_ConcatStrings\bin\Debug\Task7_ConcatStrings.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task7_ConcatStrings\Task7_ConcatStrings\bin\Debug\Task7_ConcatStrings.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task7_ConcatStrings\Task7_ConcatStrings\bin\Debug\Task7_ConcatStrings.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task7_ConcatStrings\Task7_ConcatStrings\obj\Debug\Task7_ConcatStrings.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task7_ConcatStrings\Task7_ConcatStrings\obj\Debug\Task7_ConcatStrings.pdb

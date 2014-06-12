@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task7_MoonGravity\Task7_MoonGravity\bin\Debug\Task7_MoonGravity.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task7_MoonGravity\Task7_MoonGravity\bin\Debug\Task7_MoonGravity.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task7_MoonGravity\Task7_MoonGravity\bin\Debug\Task7_MoonGravity.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task7_MoonGravity\Task7_MoonGravity\obj\Debug\Task7_MoonGravity.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task7_MoonGravity\Task7_MoonGravity\obj\Debug\Task7_MoonGravity.pdb

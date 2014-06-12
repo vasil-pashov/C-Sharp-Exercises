@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task11_IsoscelesTriangle\Task11_IsoscelesTriangle\bin\Debug\Task11_IsoscelesTriangle.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task11_IsoscelesTriangle\Task11_IsoscelesTriangle\bin\Debug\Task11_IsoscelesTriangle.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task11_IsoscelesTriangle\Task11_IsoscelesTriangle\bin\Debug\Task11_IsoscelesTriangle.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task11_IsoscelesTriangle\Task11_IsoscelesTriangle\obj\Debug\Task11_IsoscelesTriangle.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task11_IsoscelesTriangle\Task11_IsoscelesTriangle\obj\Debug\Task11_IsoscelesTriangle.pdb

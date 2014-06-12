@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task9_EscapeQuotes\Task9_EscapeQuotes\bin\Debug\Task9_EscapeQuotes.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task9_EscapeQuotes\Task9_EscapeQuotes\bin\Debug\Task9_EscapeQuotes.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task9_EscapeQuotes\Task9_EscapeQuotes\bin\Debug\Task9_EscapeQuotes.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task9_EscapeQuotes\Task9_EscapeQuotes\obj\Debug\Task9_EscapeQuotes.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task9_EscapeQuotes\Task9_EscapeQuotes\obj\Debug\Task9_EscapeQuotes.pdb

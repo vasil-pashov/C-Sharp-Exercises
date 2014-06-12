@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task2_FloatingPointVariables\Task2_FloatingPointVariables\bin\Debug\Task2_FloatingPointVariables.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task2_FloatingPointVariables\Task2_FloatingPointVariables\bin\Debug\Task2_FloatingPointVariables.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task2_FloatingPointVariables\Task2_FloatingPointVariables\bin\Debug\Task2_FloatingPointVariables.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task2_FloatingPointVariables\Task2_FloatingPointVariables\obj\Debug\Task2_FloatingPointVariables.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task2_FloatingPointVariables\Task2_FloatingPointVariables\obj\Debug\Task2_FloatingPointVariables.pdb

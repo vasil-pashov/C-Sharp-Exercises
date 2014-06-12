@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task4_IntegerInHex\Task4_IntegerInHex\bin\Debug\Task4_IntegerInHex.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task4_IntegerInHex\Task4_IntegerInHex\bin\Debug\Task4_IntegerInHex.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task4_IntegerInHex\Task4_IntegerInHex\bin\Debug\Task4_IntegerInHex.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task4_IntegerInHex\Task4_IntegerInHex\obj\Debug\Task4_IntegerInHex.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task4_IntegerInHex\Task4_IntegerInHex\obj\Debug\Task4_IntegerInHex.pdb

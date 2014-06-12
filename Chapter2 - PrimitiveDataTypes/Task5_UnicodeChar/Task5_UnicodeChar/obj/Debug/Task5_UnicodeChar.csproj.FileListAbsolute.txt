@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task5_UnicodeChar\Task5_UnicodeChar\bin\Debug\Task5_UnicodeChar.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task5_UnicodeChar\Task5_UnicodeChar\bin\Debug\Task5_UnicodeChar.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task5_UnicodeChar\Task5_UnicodeChar\bin\Debug\Task5_UnicodeChar.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task5_UnicodeChar\Task5_UnicodeChar\obj\Debug\Task5_UnicodeChar.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task5_UnicodeChar\Task5_UnicodeChar\obj\Debug\Task5_UnicodeChar.pdb

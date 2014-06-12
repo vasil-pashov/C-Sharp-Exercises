@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task15_SwapBits\Task15_SwapBits\bin\Debug\Task15_SwapBits.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task15_SwapBits\Task15_SwapBits\bin\Debug\Task15_SwapBits.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task15_SwapBits\Task15_SwapBits\bin\Debug\Task15_SwapBits.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task15_SwapBits\Task15_SwapBits\obj\Debug\Task15_SwapBits.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task15_SwapBits\Task15_SwapBits\obj\Debug\Task15_SwapBits.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task15_SwapBits\Task15_SwapBits\obj\Debug\Task15_SwapBits.csprojResolveAssemblyReference.cache

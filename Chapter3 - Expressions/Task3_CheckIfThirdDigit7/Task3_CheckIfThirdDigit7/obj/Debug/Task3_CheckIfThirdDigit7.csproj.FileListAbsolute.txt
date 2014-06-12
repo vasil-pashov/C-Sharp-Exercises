@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task3_CheckIfThirdDigit7\Task3_CheckIfThirdDigit7\bin\Debug\Task3_CheckIfThirdDigit7.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task3_CheckIfThirdDigit7\Task3_CheckIfThirdDigit7\bin\Debug\Task3_CheckIfThirdDigit7.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task3_CheckIfThirdDigit7\Task3_CheckIfThirdDigit7\bin\Debug\Task3_CheckIfThirdDigit7.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task3_CheckIfThirdDigit7\Task3_CheckIfThirdDigit7\obj\Debug\Task3_CheckIfThirdDigit7.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task3_CheckIfThirdDigit7\Task3_CheckIfThirdDigit7\obj\Debug\Task3_CheckIfThirdDigit7.pdb

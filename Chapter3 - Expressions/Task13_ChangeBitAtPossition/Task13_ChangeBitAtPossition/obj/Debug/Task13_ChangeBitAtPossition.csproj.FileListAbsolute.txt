@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task13_ChangeBitAtPossition\Task13_ChangeBitAtPossition\bin\Debug\Task13_ChangeBitAtPossition.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task13_ChangeBitAtPossition\Task13_ChangeBitAtPossition\bin\Debug\Task13_ChangeBitAtPossition.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task13_ChangeBitAtPossition\Task13_ChangeBitAtPossition\bin\Debug\Task13_ChangeBitAtPossition.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task13_ChangeBitAtPossition\Task13_ChangeBitAtPossition\obj\Debug\Task13_ChangeBitAtPossition.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task13_ChangeBitAtPossition\Task13_ChangeBitAtPossition\obj\Debug\Task13_ChangeBitAtPossition.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task13_ChangeBitAtPossition\Task13_ChangeBitAtPossition\obj\Debug\Task13_ChangeBitAtPossition.pdb

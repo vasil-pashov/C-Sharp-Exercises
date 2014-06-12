@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task10_OperationsOverNumber\Task10_OperationsOverNumber\bin\Debug\Task10_OperationsOverNumber.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task10_OperationsOverNumber\Task10_OperationsOverNumber\bin\Debug\Task10_OperationsOverNumber.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task10_OperationsOverNumber\Task10_OperationsOverNumber\bin\Debug\Task10_OperationsOverNumber.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task10_OperationsOverNumber\Task10_OperationsOverNumber\obj\Debug\Task10_OperationsOverNumber.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task10_OperationsOverNumber\Task10_OperationsOverNumber\obj\Debug\Task10_OperationsOverNumber.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task10_OperationsOverNumber\Task10_OperationsOverNumber\obj\Debug\Task10_OperationsOverNumber.pdb

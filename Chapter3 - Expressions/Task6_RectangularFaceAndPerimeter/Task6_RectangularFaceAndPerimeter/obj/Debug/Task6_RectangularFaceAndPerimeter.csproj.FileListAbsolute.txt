@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task6_RectangularFaceAndPerimeter\Task6_RectangularFaceAndPerimeter\bin\Debug\Task6_RectangularFaceAndPerimeter.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task6_RectangularFaceAndPerimeter\Task6_RectangularFaceAndPerimeter\bin\Debug\Task6_RectangularFaceAndPerimeter.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task6_RectangularFaceAndPerimeter\Task6_RectangularFaceAndPerimeter\bin\Debug\Task6_RectangularFaceAndPerimeter.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task6_RectangularFaceAndPerimeter\Task6_RectangularFaceAndPerimeter\obj\Debug\Task6_RectangularFaceAndPerimeter.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task6_RectangularFaceAndPerimeter\Task6_RectangularFaceAndPerimeter\obj\Debug\Task6_RectangularFaceAndPerimeter.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task14_IsPrime\Task14_IsPrime\bin\Debug\Task14_IsPrime.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task14_IsPrime\Task14_IsPrime\bin\Debug\Task14_IsPrime.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task14_IsPrime\Task14_IsPrime\bin\Debug\Task14_IsPrime.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task14_IsPrime\Task14_IsPrime\obj\Debug\Task14_IsPrime.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task14_IsPrime\Task14_IsPrime\obj\Debug\Task14_IsPrime.pdb

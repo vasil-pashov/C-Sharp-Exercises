@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task12_DeclarePersonVars\Task12_DeclarePersonVars\bin\Debug\Task12_DeclarePersonVars.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task12_DeclarePersonVars\Task12_DeclarePersonVars\bin\Debug\Task12_DeclarePersonVars.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task12_DeclarePersonVars\Task12_DeclarePersonVars\bin\Debug\Task12_DeclarePersonVars.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task12_DeclarePersonVars\Task12_DeclarePersonVars\obj\Debug\Task12_DeclarePersonVars.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task12_DeclarePersonVars\Task12_DeclarePersonVars\obj\Debug\Task12_DeclarePersonVars.pdb

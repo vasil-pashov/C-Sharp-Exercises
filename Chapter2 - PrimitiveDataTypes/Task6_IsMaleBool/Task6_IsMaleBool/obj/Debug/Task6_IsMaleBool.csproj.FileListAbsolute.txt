@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task6_IsMaleBool\Task6_IsMaleBool\bin\Debug\Task6_IsMaleBool.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task6_IsMaleBool\Task6_IsMaleBool\bin\Debug\Task6_IsMaleBool.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task6_IsMaleBool\Task6_IsMaleBool\bin\Debug\Task6_IsMaleBool.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task6_IsMaleBool\Task6_IsMaleBool\obj\Debug\Task6_IsMaleBool.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task6_IsMaleBool\Task6_IsMaleBool\obj\Debug\Task6_IsMaleBool.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task1_IsOdd\Task1_IsOdd\bin\Debug\Task1_IsOdd.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task1_IsOdd\Task1_IsOdd\bin\Debug\Task1_IsOdd.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task1_IsOdd\Task1_IsOdd\bin\Debug\Task1_IsOdd.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task1_IsOdd\Task1_IsOdd\obj\Debug\Task1_IsOdd.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task1_IsOdd\Task1_IsOdd\obj\Debug\Task1_IsOdd.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task1_IsOdd\Task1_IsOdd\obj\Debug\Task1_IsOdd.pdb

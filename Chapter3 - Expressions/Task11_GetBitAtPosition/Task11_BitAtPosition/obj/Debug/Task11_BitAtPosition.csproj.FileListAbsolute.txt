@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task11_BitAtPosition\Task11_BitAtPosition\bin\Debug\Task11_BitAtPosition.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task11_BitAtPosition\Task11_BitAtPosition\bin\Debug\Task11_BitAtPosition.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task11_BitAtPosition\Task11_BitAtPosition\bin\Debug\Task11_BitAtPosition.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task11_BitAtPosition\Task11_BitAtPosition\obj\Debug\Task11_BitAtPosition.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task11_BitAtPosition\Task11_BitAtPosition\obj\Debug\Task11_BitAtPosition.pdb

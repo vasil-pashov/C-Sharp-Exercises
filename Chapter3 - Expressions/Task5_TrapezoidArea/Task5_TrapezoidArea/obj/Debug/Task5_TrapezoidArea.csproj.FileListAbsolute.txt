@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task5_TrapezoidArea\Task5_TrapezoidArea\bin\Debug\Task5_TrapezoidArea.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task5_TrapezoidArea\Task5_TrapezoidArea\bin\Debug\Task5_TrapezoidArea.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task5_TrapezoidArea\Task5_TrapezoidArea\bin\Debug\Task5_TrapezoidArea.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task5_TrapezoidArea\Task5_TrapezoidArea\obj\Debug\Task5_TrapezoidArea.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task5_TrapezoidArea\Task5_TrapezoidArea\obj\Debug\Task5_TrapezoidArea.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task2_IsDevidedBy5And7\Task2_IsDevidedBy5And7\bin\Debug\Task2_IsDevidedBy5And7.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task2_IsDevidedBy5And7\Task2_IsDevidedBy5And7\bin\Debug\Task2_IsDevidedBy5And7.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task2_IsDevidedBy5And7\Task2_IsDevidedBy5And7\bin\Debug\Task2_IsDevidedBy5And7.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task2_IsDevidedBy5And7\Task2_IsDevidedBy5And7\obj\Debug\Task2_IsDevidedBy5And7.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task2_IsDevidedBy5And7\Task2_IsDevidedBy5And7\obj\Debug\Task2_IsDevidedBy5And7.pdb

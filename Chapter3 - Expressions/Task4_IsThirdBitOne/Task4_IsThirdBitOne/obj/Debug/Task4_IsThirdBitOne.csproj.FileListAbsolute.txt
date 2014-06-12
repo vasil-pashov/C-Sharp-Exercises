@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task4_IsThirdBitOne\Task4_IsThirdBitOne\bin\Debug\Task4_IsThirdBitOne.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task4_IsThirdBitOne\Task4_IsThirdBitOne\bin\Debug\Task4_IsThirdBitOne.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task4_IsThirdBitOne\Task4_IsThirdBitOne\bin\Debug\Task4_IsThirdBitOne.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task4_IsThirdBitOne\Task4_IsThirdBitOne\obj\Debug\Task4_IsThirdBitOne.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task4_IsThirdBitOne\Task4_IsThirdBitOne\obj\Debug\Task4_IsThirdBitOne.pdb

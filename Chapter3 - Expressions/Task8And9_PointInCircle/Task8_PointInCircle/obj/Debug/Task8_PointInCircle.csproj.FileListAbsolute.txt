@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task8_PointInCircle\Task8_PointInCircle\bin\Debug\Task8_PointInCircle.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task8_PointInCircle\Task8_PointInCircle\bin\Debug\Task8_PointInCircle.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task8_PointInCircle\Task8_PointInCircle\bin\Debug\Task8_PointInCircle.pdb
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task8_PointInCircle\Task8_PointInCircle\obj\Debug\Task8_PointInCircle.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task8_PointInCircle\Task8_PointInCircle\obj\Debug\Task8_PointInCircle.exe
+C:\Users\Vasil\Desktop\C#\Chapter3 - Expressions\Task8_PointInCircle\Task8_PointInCircle\obj\Debug\Task8_PointInCircle.pdb

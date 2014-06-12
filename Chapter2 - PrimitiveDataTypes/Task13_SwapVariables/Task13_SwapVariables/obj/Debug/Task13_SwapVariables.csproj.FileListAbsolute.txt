@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task13_SwapVariables\Task13_SwapVariables\bin\Debug\Task13_SwapVariables.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task13_SwapVariables\Task13_SwapVariables\bin\Debug\Task13_SwapVariables.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task13_SwapVariables\Task13_SwapVariables\bin\Debug\Task13_SwapVariables.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task13_SwapVariables\Task13_SwapVariables\obj\Debug\Task13_SwapVariables.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task13_SwapVariables\Task13_SwapVariables\obj\Debug\Task13_SwapVariables.pdb

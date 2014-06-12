@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task3_CorrectFloatingPoitnEvaluations\Task3_CorrectFloatingPoitnEvaluations\bin\Debug\Task3_CorrectFloatingPoitnEvaluations.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task3_CorrectFloatingPoitnEvaluations\Task3_CorrectFloatingPoitnEvaluations\bin\Debug\Task3_CorrectFloatingPoitnEvaluations.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task3_CorrectFloatingPoitnEvaluations\Task3_CorrectFloatingPoitnEvaluations\bin\Debug\Task3_CorrectFloatingPoitnEvaluations.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task3_CorrectFloatingPoitnEvaluations\Task3_CorrectFloatingPoitnEvaluations\obj\Debug\Task3_CorrectFloatingPoitnEvaluations.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task3_CorrectFloatingPoitnEvaluations\Task3_CorrectFloatingPoitnEvaluations\obj\Debug\Task3_CorrectFloatingPoitnEvaluations.pdb

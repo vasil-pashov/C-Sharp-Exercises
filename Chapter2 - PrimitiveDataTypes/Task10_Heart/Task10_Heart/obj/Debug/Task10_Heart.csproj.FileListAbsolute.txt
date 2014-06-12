@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task10_Heart\Task10_Heart\bin\Debug\Task10_Heart.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task10_Heart\Task10_Heart\bin\Debug\Task10_Heart.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task10_Heart\Task10_Heart\bin\Debug\Task10_Heart.pdb
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task10_Heart\Task10_Heart\obj\Debug\Task10_Heart.exe
+C:\Users\Vasil\Desktop\C#\Chapter2 - PrimitiveDataTypes\Task10_Heart\Task10_Heart\obj\Debug\Task10_Heart.pdb
