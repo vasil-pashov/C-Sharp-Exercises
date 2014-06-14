@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task10_PrintSumOfNumbers\Task10_PrintSumOfNumbers\bin\Debug\Task10_PrintSumOfNumbers.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task10_PrintSumOfNumbers\Task10_PrintSumOfNumbers\bin\Debug\Task10_PrintSumOfNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task10_PrintSumOfNumbers\Task10_PrintSumOfNumbers\bin\Debug\Task10_PrintSumOfNumbers.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task10_PrintSumOfNumbers\Task10_PrintSumOfNumbers\obj\Debug\Task10_PrintSumOfNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task10_PrintSumOfNumbers\Task10_PrintSumOfNumbers\obj\Debug\Task10_PrintSumOfNumbers.pdb

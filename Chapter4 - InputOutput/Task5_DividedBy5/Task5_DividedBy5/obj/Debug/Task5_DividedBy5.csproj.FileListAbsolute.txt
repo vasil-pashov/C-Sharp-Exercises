@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task5_DividedBy5\Task5_DividedBy5\bin\Debug\Task5_DividedBy5.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task5_DividedBy5\Task5_DividedBy5\bin\Debug\Task5_DividedBy5.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task5_DividedBy5\Task5_DividedBy5\bin\Debug\Task5_DividedBy5.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task5_DividedBy5\Task5_DividedBy5\obj\Debug\Task5_DividedBy5.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task5_DividedBy5\Task5_DividedBy5\obj\Debug\Task5_DividedBy5.pdb

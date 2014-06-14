@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task4-FormatNumbers\Task4-FormatNumbers\bin\Debug\Task4-FormatNumbers.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task4-FormatNumbers\Task4-FormatNumbers\bin\Debug\Task4-FormatNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task4-FormatNumbers\Task4-FormatNumbers\bin\Debug\Task4-FormatNumbers.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task4-FormatNumbers\Task4-FormatNumbers\obj\Debug\Task4-FormatNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task4-FormatNumbers\Task4-FormatNumbers\obj\Debug\Task4-FormatNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task4-FormatNumbers\Task4-FormatNumbers\obj\Debug\Task4-FormatNumbers.pdb

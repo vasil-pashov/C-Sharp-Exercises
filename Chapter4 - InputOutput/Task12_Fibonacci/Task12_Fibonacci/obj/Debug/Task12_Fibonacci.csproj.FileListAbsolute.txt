@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task12_Fibonacci\Task12_Fibonacci\bin\Debug\Task12_Fibonacci.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task12_Fibonacci\Task12_Fibonacci\bin\Debug\Task12_Fibonacci.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task12_Fibonacci\Task12_Fibonacci\bin\Debug\Task12_Fibonacci.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task12_Fibonacci\Task12_Fibonacci\obj\Debug\Task12_Fibonacci.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task12_Fibonacci\Task12_Fibonacci\obj\Debug\Task12_Fibonacci.pdb

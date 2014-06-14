@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task6_PrintLarger\Task6_PrintLarger\bin\Debug\Task6_PrintLarger.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task6_PrintLarger\Task6_PrintLarger\bin\Debug\Task6_PrintLarger.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task6_PrintLarger\Task6_PrintLarger\bin\Debug\Task6_PrintLarger.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task6_PrintLarger\Task6_PrintLarger\obj\Debug\Task6_PrintLarger.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task6_PrintLarger\Task6_PrintLarger\obj\Debug\Task6_PrintLarger.pdb

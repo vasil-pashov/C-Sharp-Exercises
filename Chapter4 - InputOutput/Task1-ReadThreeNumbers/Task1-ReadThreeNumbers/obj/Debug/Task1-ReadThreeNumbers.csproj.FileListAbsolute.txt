@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task1-ReadThreeNumbers\Task1-ReadThreeNumbers\bin\Debug\Task1-ReadThreeNumbers.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task1-ReadThreeNumbers\Task1-ReadThreeNumbers\bin\Debug\Task1-ReadThreeNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task1-ReadThreeNumbers\Task1-ReadThreeNumbers\bin\Debug\Task1-ReadThreeNumbers.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task1-ReadThreeNumbers\Task1-ReadThreeNumbers\obj\Debug\Task1-ReadThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task1-ReadThreeNumbers\Task1-ReadThreeNumbers\obj\Debug\Task1-ReadThreeNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task1-ReadThreeNumbers\Task1-ReadThreeNumbers\obj\Debug\Task1-ReadThreeNumbers.pdb

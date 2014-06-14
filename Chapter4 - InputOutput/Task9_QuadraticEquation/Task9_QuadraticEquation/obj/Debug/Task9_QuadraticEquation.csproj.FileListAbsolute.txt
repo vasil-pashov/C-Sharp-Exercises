@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task9_QuadraticEquation\Task9_QuadraticEquation\bin\Debug\Task9_QuadraticEquation.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task9_QuadraticEquation\Task9_QuadraticEquation\bin\Debug\Task9_QuadraticEquation.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task9_QuadraticEquation\Task9_QuadraticEquation\bin\Debug\Task9_QuadraticEquation.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task9_QuadraticEquation\Task9_QuadraticEquation\obj\Debug\Task9_QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task9_QuadraticEquation\Task9_QuadraticEquation\obj\Debug\Task9_QuadraticEquation.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task9_QuadraticEquation\Task9_QuadraticEquation\obj\Debug\Task9_QuadraticEquation.pdb

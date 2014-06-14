@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task13_SumFractions", "Task13_SumFractions\Task13_SumFractions.csproj", "{CAFEE4BF-4473-4378-B798-2F84CBD871DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFEE4BF-4473-4378-B798-2F84CBD871DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFEE4BF-4473-4378-B798-2F84CBD871DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFEE4BF-4473-4378-B798-2F84CBD871DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFEE4BF-4473-4378-B798-2F84CBD871DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

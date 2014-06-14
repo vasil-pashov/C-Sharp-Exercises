@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task7_Input5Numbers\Task7_Input5Numbers\bin\Debug\Task7_Input5Numbers.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task7_Input5Numbers\Task7_Input5Numbers\bin\Debug\Task7_Input5Numbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task7_Input5Numbers\Task7_Input5Numbers\bin\Debug\Task7_Input5Numbers.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task7_Input5Numbers\Task7_Input5Numbers\obj\Debug\Task7_Input5Numbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task7_Input5Numbers\Task7_Input5Numbers\obj\Debug\Task7_Input5Numbers.pdb

@@ -1,0 +1,1 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task10_PrintNumbers1toN\Task10_PrintNumbers1toN\bin\Debug\Task10_PrintNumbers1toN.exe.config

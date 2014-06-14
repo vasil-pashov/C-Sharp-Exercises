@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task13_SumFractions\Task13_SumFractions\bin\Debug\Task13_SumFractions.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task13_SumFractions\Task13_SumFractions\bin\Debug\Task13_SumFractions.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task13_SumFractions\Task13_SumFractions\bin\Debug\Task13_SumFractions.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task13_SumFractions\Task13_SumFractions\obj\Debug\Task13_SumFractions.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task13_SumFractions\Task13_SumFractions\obj\Debug\Task13_SumFractions.pdb

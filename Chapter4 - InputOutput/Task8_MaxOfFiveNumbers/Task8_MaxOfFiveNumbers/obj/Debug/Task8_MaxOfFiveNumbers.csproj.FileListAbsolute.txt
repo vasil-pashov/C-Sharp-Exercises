@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task8_MaxOfFiveNumbers\Task8_MaxOfFiveNumbers\bin\Debug\Task8_MaxOfFiveNumbers.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task8_MaxOfFiveNumbers\Task8_MaxOfFiveNumbers\bin\Debug\Task8_MaxOfFiveNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task8_MaxOfFiveNumbers\Task8_MaxOfFiveNumbers\bin\Debug\Task8_MaxOfFiveNumbers.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task8_MaxOfFiveNumbers\Task8_MaxOfFiveNumbers\obj\Debug\Task8_MaxOfFiveNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task8_MaxOfFiveNumbers\Task8_MaxOfFiveNumbers\obj\Debug\Task8_MaxOfFiveNumbers.pdb

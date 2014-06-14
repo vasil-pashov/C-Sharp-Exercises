@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task3-FirmAndManagerData\Task3-FirmAndManagerData\bin\Debug\Task3-FirmAndManagerData.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task3-FirmAndManagerData\Task3-FirmAndManagerData\bin\Debug\Task3-FirmAndManagerData.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task3-FirmAndManagerData\Task3-FirmAndManagerData\bin\Debug\Task3-FirmAndManagerData.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task3-FirmAndManagerData\Task3-FirmAndManagerData\obj\Debug\Task3-FirmAndManagerData.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task3-FirmAndManagerData\Task3-FirmAndManagerData\obj\Debug\Task3-FirmAndManagerData.pdb

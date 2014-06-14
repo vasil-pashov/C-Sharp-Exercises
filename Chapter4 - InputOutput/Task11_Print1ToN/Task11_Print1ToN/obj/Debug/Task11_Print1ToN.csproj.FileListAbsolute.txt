@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task11_Print1ToN\Task11_Print1ToN\bin\Debug\Task11_Print1ToN.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task11_Print1ToN\Task11_Print1ToN\bin\Debug\Task11_Print1ToN.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task11_Print1ToN\Task11_Print1ToN\bin\Debug\Task11_Print1ToN.pdb
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task11_Print1ToN\Task11_Print1ToN\obj\Debug\Task11_Print1ToN.exe
+C:\Users\Vasil\Desktop\C#\Chapter4 - InputOutput\Task11_Print1ToN\Task11_Print1ToN\obj\Debug\Task11_Print1ToN.pdb
