@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task3_PrintSmallest\Task3_PrintSmallest\bin\Debug\Task3_PrintSmallest.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task3_PrintSmallest\Task3_PrintSmallest\bin\Debug\Task3_PrintSmallest.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task3_PrintSmallest\Task3_PrintSmallest\bin\Debug\Task3_PrintSmallest.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task3_PrintSmallest\Task3_PrintSmallest\obj\Debug\Task3_PrintSmallest.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task3_PrintSmallest\Task3_PrintSmallest\obj\Debug\Task3_PrintSmallest.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task16_Randomize\Task16_Randomize\bin\Debug\Task16_Randomize.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task16_Randomize\Task16_Randomize\bin\Debug\Task16_Randomize.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task16_Randomize\Task16_Randomize\bin\Debug\Task16_Randomize.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task16_Randomize\Task16_Randomize\obj\Debug\Task16_Randomize.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task16_Randomize\Task16_Randomize\obj\Debug\Task16_Randomize.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task16_Randomize\Task16_Randomize\obj\Debug\Task16_Randomize.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task14_DecToHex\Task14_DecToHex\bin\Debug\Task14_DecToHex.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task14_DecToHex\Task14_DecToHex\bin\Debug\Task14_DecToHex.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task14_DecToHex\Task14_DecToHex\bin\Debug\Task14_DecToHex.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task14_DecToHex\Task14_DecToHex\obj\Debug\Task14_DecToHex.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task14_DecToHex\Task14_DecToHex\obj\Debug\Task14_DecToHex.pdb

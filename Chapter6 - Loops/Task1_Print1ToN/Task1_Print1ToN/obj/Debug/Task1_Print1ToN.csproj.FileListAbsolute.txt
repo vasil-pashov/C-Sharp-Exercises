@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task1_Print1ToN\Task1_Print1ToN\bin\Debug\Task1_Print1ToN.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task1_Print1ToN\Task1_Print1ToN\bin\Debug\Task1_Print1ToN.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task1_Print1ToN\Task1_Print1ToN\bin\Debug\Task1_Print1ToN.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task1_Print1ToN\Task1_Print1ToN\obj\Debug\Task1_Print1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task1_Print1ToN\Task1_Print1ToN\obj\Debug\Task1_Print1ToN.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task1_Print1ToN\Task1_Print1ToN\obj\Debug\Task1_Print1ToN.pdb

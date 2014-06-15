@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task13_BinToDec\Task13_BinToDec\bin\Debug\Task13_BinToDec.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task13_BinToDec\Task13_BinToDec\bin\Debug\Task13_BinToDec.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task13_BinToDec\Task13_BinToDec\bin\Debug\Task13_BinToDec.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task13_BinToDec\Task13_BinToDec\obj\Debug\Task13_BinToDec.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task13_BinToDec\Task13_BinToDec\obj\Debug\Task13_BinToDec.pdb

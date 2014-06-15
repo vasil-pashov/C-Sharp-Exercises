@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task18_Spiral\Task18_Spiral\bin\Debug\Task18_Spiral.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task18_Spiral\Task18_Spiral\bin\Debug\Task18_Spiral.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task18_Spiral\Task18_Spiral\bin\Debug\Task18_Spiral.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task18_Spiral\Task18_Spiral\obj\Debug\Task18_Spiral.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task18_Spiral\Task18_Spiral\obj\Debug\Task18_Spiral.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task18_Spiral\Task18_Spiral\obj\Debug\Task18_Spiral.pdb

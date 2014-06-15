@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task8_CatalanNumbers\Task8_CatalanNumbers\bin\Debug\Task8_CatalanNumbers.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task8_CatalanNumbers\Task8_CatalanNumbers\bin\Debug\Task8_CatalanNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task8_CatalanNumbers\Task8_CatalanNumbers\bin\Debug\Task8_CatalanNumbers.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task8_CatalanNumbers\Task8_CatalanNumbers\obj\Debug\Task8_CatalanNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task8_CatalanNumbers\Task8_CatalanNumbers\obj\Debug\Task8_CatalanNumbers.pdb

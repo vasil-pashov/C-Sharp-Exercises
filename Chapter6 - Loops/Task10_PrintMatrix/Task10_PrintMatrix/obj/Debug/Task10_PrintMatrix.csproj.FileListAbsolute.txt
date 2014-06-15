@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task10_PrintMatrix\Task10_PrintMatrix\bin\Debug\Task10_PrintMatrix.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task10_PrintMatrix\Task10_PrintMatrix\bin\Debug\Task10_PrintMatrix.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task10_PrintMatrix\Task10_PrintMatrix\bin\Debug\Task10_PrintMatrix.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task10_PrintMatrix\Task10_PrintMatrix\obj\Debug\Task10_PrintMatrix.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task10_PrintMatrix\Task10_PrintMatrix\obj\Debug\Task10_PrintMatrix.pdb

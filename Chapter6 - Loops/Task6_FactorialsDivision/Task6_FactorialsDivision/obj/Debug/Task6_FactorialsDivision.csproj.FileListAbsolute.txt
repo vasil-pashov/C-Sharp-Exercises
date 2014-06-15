@@ -1,0 +1,1 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task6_FactorialsDivision\Task6_FactorialsDivision\bin\Debug\Task6_FactorialsDivision.exe.config

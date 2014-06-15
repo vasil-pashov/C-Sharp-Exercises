@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task12_DecToBin\Task12_DecToBin\bin\Debug\Task12_DecToBin.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task12_DecToBin\Task12_DecToBin\bin\Debug\Task12_DecToBin.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task12_DecToBin\Task12_DecToBin\bin\Debug\Task12_DecToBin.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task12_DecToBin\Task12_DecToBin\obj\Debug\Task12_DecToBin.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task12_DecToBin\Task12_DecToBin\obj\Debug\Task12_DecToBin.pdb

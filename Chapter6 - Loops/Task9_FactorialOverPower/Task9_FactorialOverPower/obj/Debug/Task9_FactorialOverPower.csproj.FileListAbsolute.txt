@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task9_FactorialOverPower\Task9_FactorialOverPower\bin\Debug\Task9_FactorialOverPower.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task9_FactorialOverPower\Task9_FactorialOverPower\bin\Debug\Task9_FactorialOverPower.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task9_FactorialOverPower\Task9_FactorialOverPower\bin\Debug\Task9_FactorialOverPower.pdb
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task9_FactorialOverPower\Task9_FactorialOverPower\obj\Debug\Task9_FactorialOverPower.exe
+C:\Users\Vasil\Desktop\C#\Chapter6 - Loops\Task9_FactorialOverPower\Task9_FactorialOverPower\obj\Debug\Task9_FactorialOverPower.pdb
