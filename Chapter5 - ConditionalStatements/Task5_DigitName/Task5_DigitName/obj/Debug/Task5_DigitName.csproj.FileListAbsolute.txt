@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task5_DigitName\Task5_DigitName\bin\Debug\Task5_DigitName.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task5_DigitName\Task5_DigitName\bin\Debug\Task5_DigitName.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task5_DigitName\Task5_DigitName\bin\Debug\Task5_DigitName.pdb
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task5_DigitName\Task5_DigitName\obj\Debug\Task5_DigitName.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task5_DigitName\Task5_DigitName\obj\Debug\Task5_DigitName.pdb

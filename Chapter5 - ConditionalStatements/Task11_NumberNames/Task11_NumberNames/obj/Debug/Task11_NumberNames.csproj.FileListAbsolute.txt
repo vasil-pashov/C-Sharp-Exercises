@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task11_NumberNames\Task11_NumberNames\bin\Debug\Task11_NumberNames.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task11_NumberNames\Task11_NumberNames\bin\Debug\Task11_NumberNames.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task11_NumberNames\Task11_NumberNames\bin\Debug\Task11_NumberNames.pdb
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task11_NumberNames\Task11_NumberNames\obj\Debug\Task11_NumberNames.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task11_NumberNames\Task11_NumberNames\obj\Debug\Task11_NumberNames.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task11_NumberNames\Task11_NumberNames\obj\Debug\Task11_NumberNames.pdb

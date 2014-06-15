@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task1_SwapLarger\Task1_SwapLarger\bin\Debug\Task1_SwapLarger.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task1_SwapLarger\Task1_SwapLarger\bin\Debug\Task1_SwapLarger.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task1_SwapLarger\Task1_SwapLarger\bin\Debug\Task1_SwapLarger.pdb
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task1_SwapLarger\Task1_SwapLarger\obj\Debug\Task1_SwapLarger.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task1_SwapLarger\Task1_SwapLarger\obj\Debug\Task1_SwapLarger.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task1_SwapLarger\Task1_SwapLarger\obj\Debug\Task1_SwapLarger.pdb

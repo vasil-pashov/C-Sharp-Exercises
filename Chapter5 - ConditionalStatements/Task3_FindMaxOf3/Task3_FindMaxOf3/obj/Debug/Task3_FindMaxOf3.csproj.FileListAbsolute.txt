@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task3_FindMaxOf3\Task3_FindMaxOf3\bin\Debug\Task3_FindMaxOf3.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task3_FindMaxOf3\Task3_FindMaxOf3\bin\Debug\Task3_FindMaxOf3.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task3_FindMaxOf3\Task3_FindMaxOf3\bin\Debug\Task3_FindMaxOf3.pdb
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task3_FindMaxOf3\Task3_FindMaxOf3\obj\Debug\Task3_FindMaxOf3.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task3_FindMaxOf3\Task3_FindMaxOf3\obj\Debug\Task3_FindMaxOf3.pdb

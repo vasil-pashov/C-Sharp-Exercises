@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task6_QuadraticEquation\Task6_QuadraticEquation\bin\Debug\Task6_QuadraticEquation.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task6_QuadraticEquation\Task6_QuadraticEquation\bin\Debug\Task6_QuadraticEquation.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task6_QuadraticEquation\Task6_QuadraticEquation\bin\Debug\Task6_QuadraticEquation.pdb
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task6_QuadraticEquation\Task6_QuadraticEquation\obj\Debug\Task6_QuadraticEquation.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task6_QuadraticEquation\Task6_QuadraticEquation\obj\Debug\Task6_QuadraticEquation.pdb

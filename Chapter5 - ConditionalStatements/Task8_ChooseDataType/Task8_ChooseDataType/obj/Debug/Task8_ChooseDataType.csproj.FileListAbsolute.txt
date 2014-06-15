@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task8_ChooseDataType\Task8_ChooseDataType\bin\Debug\Task8_ChooseDataType.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task8_ChooseDataType\Task8_ChooseDataType\obj\Debug\Task8_ChooseDataType.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task8_ChooseDataType\Task8_ChooseDataType\bin\Debug\Task8_ChooseDataType.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task8_ChooseDataType\Task8_ChooseDataType\bin\Debug\Task8_ChooseDataType.pdb
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task8_ChooseDataType\Task8_ChooseDataType\obj\Debug\Task8_ChooseDataType.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task8_ChooseDataType\Task8_ChooseDataType\obj\Debug\Task8_ChooseDataType.pdb

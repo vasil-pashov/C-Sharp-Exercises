@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task9_ZeroSum\Task9_ZeroSum\bin\Debug\Task9_ZeroSum.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task9_ZeroSum\Task9_ZeroSum\bin\Debug\Task9_ZeroSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task9_ZeroSum\Task9_ZeroSum\bin\Debug\Task9_ZeroSum.pdb
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task9_ZeroSum\Task9_ZeroSum\obj\Debug\Task9_ZeroSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task9_ZeroSum\Task9_ZeroSum\obj\Debug\Task9_ZeroSum.pdb

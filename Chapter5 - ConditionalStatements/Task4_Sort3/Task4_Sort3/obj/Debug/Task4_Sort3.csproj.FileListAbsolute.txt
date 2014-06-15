@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task4_Sort3\Task4_Sort3\bin\Debug\Task4_Sort3.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task4_Sort3\Task4_Sort3\bin\Debug\Task4_Sort3.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task4_Sort3\Task4_Sort3\bin\Debug\Task4_Sort3.pdb
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task4_Sort3\Task4_Sort3\obj\Debug\Task4_Sort3.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task4_Sort3\Task4_Sort3\obj\Debug\Task4_Sort3.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task2_ShowSign\Task2_ShowSign\bin\Debug\Task2_ShowSign.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task2_ShowSign\Task2_ShowSign\bin\Debug\Task2_ShowSign.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task2_ShowSign\Task2_ShowSign\bin\Debug\Task2_ShowSign.pdb
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task2_ShowSign\Task2_ShowSign\obj\Debug\Task2_ShowSign.exe
+C:\Users\Vasil\Desktop\C#\Chapter5 - ConditionalStatements\Task2_ShowSign\Task2_ShowSign\obj\Debug\Task2_ShowSign.pdb
