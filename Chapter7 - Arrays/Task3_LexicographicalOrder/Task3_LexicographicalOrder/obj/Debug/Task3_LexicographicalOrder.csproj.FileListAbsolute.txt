@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task3_LexicographicalOrder\Task3_LexicographicalOrder\bin\Debug\Task3_LexicographicalOrder.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task3_LexicographicalOrder\Task3_LexicographicalOrder\bin\Debug\Task3_LexicographicalOrder.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task3_LexicographicalOrder\Task3_LexicographicalOrder\bin\Debug\Task3_LexicographicalOrder.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task3_LexicographicalOrder\Task3_LexicographicalOrder\obj\Debug\Task3_LexicographicalOrder.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task3_LexicographicalOrder\Task3_LexicographicalOrder\obj\Debug\Task3_LexicographicalOrder.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task3_LexicographicalOrder\Task3_LexicographicalOrder\obj\Debug\Task3_LexicographicalOrder.pdb

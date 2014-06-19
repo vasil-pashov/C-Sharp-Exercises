@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task2_AreIdentical\Task2_AreIdentical\bin\Debug\Task2_AreIdentical.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task2_AreIdentical\Task2_AreIdentical\bin\Debug\Task2_AreIdentical.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task2_AreIdentical\Task2_AreIdentical\bin\Debug\Task2_AreIdentical.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task2_AreIdentical\Task2_AreIdentical\obj\Debug\Task2_AreIdentical.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task2_AreIdentical\Task2_AreIdentical\obj\Debug\Task2_AreIdentical.pdb

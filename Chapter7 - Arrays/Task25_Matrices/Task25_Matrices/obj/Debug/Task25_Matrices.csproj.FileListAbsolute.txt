@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task25_Matrices\Task25_Matrices\bin\Debug\Task25_Matrices.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task25_Matrices\Task25_Matrices\bin\Debug\Task25_Matrices.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task25_Matrices\Task25_Matrices\bin\Debug\Task25_Matrices.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task25_Matrices\Task25_Matrices\obj\Debug\Task25_Matrices.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task25_Matrices\Task25_Matrices\obj\Debug\Task25_Matrices.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task25_Matrices\Task25_Matrices\obj\Debug\Task25_Matrices.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task16_BinarySearch\Task16_BinarySearch\bin\Debug\Task16_BinarySearch.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task16_BinarySearch\Task16_BinarySearch\bin\Debug\Task16_BinarySearch.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task16_BinarySearch\Task16_BinarySearch\bin\Debug\Task16_BinarySearch.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task16_BinarySearch\Task16_BinarySearch\obj\Debug\Task16_BinarySearch.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task16_BinarySearch\Task16_BinarySearch\obj\Debug\Task16_BinarySearch.pdb

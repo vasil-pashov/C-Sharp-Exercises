@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task23_Variations\Task23_Variations\bin\Debug\Task23_Variations.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task23_Variations\Task23_Variations\bin\Debug\Task23_Variations.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task23_Variations\Task23_Variations\bin\Debug\Task23_Variations.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task23_Variations\Task23_Variations\obj\Debug\Task23_Variations.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task23_Variations\Task23_Variations\obj\Debug\Task23_Variations.pdb

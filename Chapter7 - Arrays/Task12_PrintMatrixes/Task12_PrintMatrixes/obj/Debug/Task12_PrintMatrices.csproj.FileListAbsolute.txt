@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task12_PrintMatrixes\Task12_PrintMatrixes\bin\Debug\Task12_PrintMatrixes.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task12_PrintMatrixes\Task12_PrintMatrixes\bin\Debug\Task12_PrintMatrixes.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task12_PrintMatrixes\Task12_PrintMatrixes\bin\Debug\Task12_PrintMatrixes.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task12_PrintMatrixes\Task12_PrintMatrixes\obj\Debug\Task12_PrintMatrices.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task12_PrintMatrixes\Task12_PrintMatrixes\obj\Debug\Task12_PrintMatrixes.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task12_PrintMatrixes\Task12_PrintMatrixes\obj\Debug\Task12_PrintMatrixes.pdb

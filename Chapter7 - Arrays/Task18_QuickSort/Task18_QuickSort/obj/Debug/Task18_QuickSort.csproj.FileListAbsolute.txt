@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task18_QuickSort\Task18_QuickSort\bin\Debug\Task18_QuickSort.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task18_QuickSort\Task18_QuickSort\bin\Debug\Task18_QuickSort.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task18_QuickSort\Task18_QuickSort\bin\Debug\Task18_QuickSort.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task18_QuickSort\Task18_QuickSort\obj\Debug\Task18_QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task18_QuickSort\Task18_QuickSort\obj\Debug\Task18_QuickSort.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task18_QuickSort\Task18_QuickSort\obj\Debug\Task18_QuickSort.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task10_MostCommon\Task10_MostCommon\bin\Debug\Task10_MostCommon.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task10_MostCommon\Task10_MostCommon\bin\Debug\Task10_MostCommon.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task10_MostCommon\Task10_MostCommon\bin\Debug\Task10_MostCommon.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task10_MostCommon\Task10_MostCommon\obj\Debug\Task10_MostCommon.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task10_MostCommon\Task10_MostCommon\obj\Debug\Task10_MostCommon.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task10_MostCommon\Task10_MostCommon\obj\Debug\Task10_MostCommon.pdb

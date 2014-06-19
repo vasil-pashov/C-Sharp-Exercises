@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task24_Combinations\Task24_Combinations\bin\Debug\Task24_Combinations.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task24_Combinations\Task24_Combinations\obj\Debug\Task24_Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task24_Combinations\Task24_Combinations\bin\Debug\Task24_Combinations.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task24_Combinations\Task24_Combinations\bin\Debug\Task24_Combinations.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task24_Combinations\Task24_Combinations\obj\Debug\Task24_Combinations.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task24_Combinations\Task24_Combinations\obj\Debug\Task24_Combinations.pdb

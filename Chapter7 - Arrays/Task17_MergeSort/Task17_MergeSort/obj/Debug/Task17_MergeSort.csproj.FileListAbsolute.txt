@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task17_MergeSort\Task17_MergeSort\bin\Debug\Task17_MergeSort.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task17_MergeSort\Task17_MergeSort\bin\Debug\Task17_MergeSort.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task17_MergeSort\Task17_MergeSort\bin\Debug\Task17_MergeSort.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task17_MergeSort\Task17_MergeSort\obj\Debug\Task17_MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task17_MergeSort\Task17_MergeSort\obj\Debug\Task17_MergeSort.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task17_MergeSort\Task17_MergeSort\obj\Debug\Task17_MergeSort.pdb

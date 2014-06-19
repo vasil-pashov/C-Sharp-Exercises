@@ -1,0 +1,1 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task19_EvenNumbers\Task19_EvenNumbers\bin\Debug\Task19_EvenNumbers.exe.config

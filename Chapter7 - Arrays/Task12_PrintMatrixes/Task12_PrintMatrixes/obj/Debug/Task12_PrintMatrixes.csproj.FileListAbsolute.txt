@@ -1,0 +1,1 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task12_PrintMatrixes\Task12_PrintMatrixes\bin\Debug\Task12_PrintMatrixes.exe.config

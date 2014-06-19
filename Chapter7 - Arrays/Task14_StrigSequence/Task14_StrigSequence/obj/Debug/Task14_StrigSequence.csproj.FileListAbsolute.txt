@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task14_StrigSequence\Task14_StrigSequence\bin\Debug\Task14_StrigSequence.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task14_StrigSequence\Task14_StrigSequence\bin\Debug\Task14_StrigSequence.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task14_StrigSequence\Task14_StrigSequence\bin\Debug\Task14_StrigSequence.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task14_StrigSequence\Task14_StrigSequence\obj\Debug\Task14_StrigSequence.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task14_StrigSequence\Task14_StrigSequence\obj\Debug\Task14_StrigSequence.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task14_StrigSequence\Task14_StrigSequence\obj\Debug\Task14_StrigSequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task6_LongestIncreasingSubsequence\Task6_LongestIncreasingSubsequence\bin\Debug\Task6_LongestIncreasingSubsequence.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task6_LongestIncreasingSubsequence\Task6_LongestIncreasingSubsequence\bin\Debug\Task6_LongestIncreasingSubsequence.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task6_LongestIncreasingSubsequence\Task6_LongestIncreasingSubsequence\bin\Debug\Task6_LongestIncreasingSubsequence.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task6_LongestIncreasingSubsequence\Task6_LongestIncreasingSubsequence\obj\Debug\Task6_LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task6_LongestIncreasingSubsequence\Task6_LongestIncreasingSubsequence\obj\Debug\Task6_LongestIncreasingSubsequence.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task6_LongestIncreasingSubsequence\Task6_LongestIncreasingSubsequence\obj\Debug\Task6_LongestIncreasingSubsequence.pdb

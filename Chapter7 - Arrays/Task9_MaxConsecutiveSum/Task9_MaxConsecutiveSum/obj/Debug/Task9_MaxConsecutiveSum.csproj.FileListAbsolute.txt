@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task9_MaxConsecutiveSum\Task9_MaxConsecutiveSum\bin\Debug\Task9_MaxConsecutiveSum.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task9_MaxConsecutiveSum\Task9_MaxConsecutiveSum\bin\Debug\Task9_MaxConsecutiveSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task9_MaxConsecutiveSum\Task9_MaxConsecutiveSum\bin\Debug\Task9_MaxConsecutiveSum.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task9_MaxConsecutiveSum\Task9_MaxConsecutiveSum\obj\Debug\Task9_MaxConsecutiveSum.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task9_MaxConsecutiveSum\Task9_MaxConsecutiveSum\obj\Debug\Task9_MaxConsecutiveSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task9_MaxConsecutiveSum\Task9_MaxConsecutiveSum\obj\Debug\Task9_MaxConsecutiveSum.pdb

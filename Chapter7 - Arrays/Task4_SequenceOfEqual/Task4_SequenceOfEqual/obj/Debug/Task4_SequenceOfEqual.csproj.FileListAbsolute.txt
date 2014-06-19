@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_SequenceOfEqual\Task4_SequenceOfEqual\bin\Debug\Task4_SequenceOfEqual.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_SequenceOfEqual\Task4_SequenceOfEqual\bin\Debug\Task4_SequenceOfEqual.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_SequenceOfEqual\Task4_SequenceOfEqual\bin\Debug\Task4_SequenceOfEqual.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_SequenceOfEqual\Task4_SequenceOfEqual\obj\Debug\Task4_SequenceOfEqual.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_SequenceOfEqual\Task4_SequenceOfEqual\obj\Debug\Task4_SequenceOfEqual.pdb

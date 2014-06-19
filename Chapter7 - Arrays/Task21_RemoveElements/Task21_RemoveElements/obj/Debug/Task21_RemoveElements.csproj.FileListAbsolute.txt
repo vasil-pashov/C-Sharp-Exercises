@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task21_RemoveElements\Task21_RemoveElements\bin\Debug\Task21_RemoveElements.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task21_RemoveElements\Task21_RemoveElements\bin\Debug\Task21_RemoveElements.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task21_RemoveElements\Task21_RemoveElements\bin\Debug\Task21_RemoveElements.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task21_RemoveElements\Task21_RemoveElements\obj\Debug\Task21_RemoveElements.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task21_RemoveElements\Task21_RemoveElements\obj\Debug\Task21_RemoveElements.pdb

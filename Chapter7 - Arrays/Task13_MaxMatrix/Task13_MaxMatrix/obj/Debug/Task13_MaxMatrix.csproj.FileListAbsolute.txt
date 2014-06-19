@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task13_MaxMatrix\Task13_MaxMatrix\bin\Debug\Task13_MaxMatrix.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task13_MaxMatrix\Task13_MaxMatrix\bin\Debug\Task13_MaxMatrix.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task13_MaxMatrix\Task13_MaxMatrix\bin\Debug\Task13_MaxMatrix.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task13_MaxMatrix\Task13_MaxMatrix\obj\Debug\Task13_MaxMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task13_MaxMatrix\Task13_MaxMatrix\obj\Debug\Task13_MaxMatrix.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task13_MaxMatrix\Task13_MaxMatrix\obj\Debug\Task13_MaxMatrix.pdb

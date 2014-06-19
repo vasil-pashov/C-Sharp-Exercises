@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task8_SelectionSort\Task8_SelectionSort\bin\Debug\Task8_SelectionSort.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task8_SelectionSort\Task8_SelectionSort\bin\Debug\Task8_SelectionSort.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task8_SelectionSort\Task8_SelectionSort\bin\Debug\Task8_SelectionSort.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task8_SelectionSort\Task8_SelectionSort\obj\Debug\Task8_SelectionSort.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task8_SelectionSort\Task8_SelectionSort\obj\Debug\Task8_SelectionSort.pdb

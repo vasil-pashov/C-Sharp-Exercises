@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task22_Permutations\Task22_Permutations\bin\Debug\Task22_Permutations.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task22_Permutations\Task22_Permutations\bin\Debug\Task22_Permutations.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task22_Permutations\Task22_Permutations\bin\Debug\Task22_Permutations.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task22_Permutations\Task22_Permutations\obj\Debug\Task22_Permutations.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task22_Permutations\Task22_Permutations\obj\Debug\Task22_Permutations.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task22_Permutations\Task22_Permutations\obj\Debug\Task22_Permutations.pdb

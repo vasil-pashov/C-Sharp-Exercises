@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task26_LargestArea\Task26_LargestArea\bin\Debug\Task26_LargestArea.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task26_LargestArea\Task26_LargestArea\bin\Debug\Task26_LargestArea.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task26_LargestArea\Task26_LargestArea\bin\Debug\Task26_LargestArea.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task26_LargestArea\Task26_LargestArea\obj\Debug\Task26_LargestArea.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task26_LargestArea\Task26_LargestArea\obj\Debug\Task26_LargestArea.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task26_LargestArea\Task26_LargestArea\obj\Debug\Task26_LargestArea.pdb

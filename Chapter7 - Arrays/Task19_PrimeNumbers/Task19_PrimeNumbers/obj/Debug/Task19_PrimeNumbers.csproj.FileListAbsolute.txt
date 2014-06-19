@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task19_PrimeNumbers\Task19_PrimeNumbers\bin\Debug\Task19_PrimeNumbers.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task19_PrimeNumbers\Task19_PrimeNumbers\bin\Debug\Task19_PrimeNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task19_PrimeNumbers\Task19_PrimeNumbers\bin\Debug\Task19_PrimeNumbers.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task19_PrimeNumbers\Task19_PrimeNumbers\obj\Debug\Task19_PrimeNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task19_PrimeNumbers\Task19_PrimeNumbers\obj\Debug\Task19_PrimeNumbers.pdb

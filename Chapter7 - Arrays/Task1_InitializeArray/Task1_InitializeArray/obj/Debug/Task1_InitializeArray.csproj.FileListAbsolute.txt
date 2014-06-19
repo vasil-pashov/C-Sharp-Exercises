@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task1_InitializeArray\Task1_InitializeArray\bin\Debug\Task1_InitializeArray.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task1_InitializeArray\Task1_InitializeArray\bin\Debug\Task1_InitializeArray.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task1_InitializeArray\Task1_InitializeArray\bin\Debug\Task1_InitializeArray.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task1_InitializeArray\Task1_InitializeArray\obj\Debug\Task1_InitializeArray.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task1_InitializeArray\Task1_InitializeArray\obj\Debug\Task1_InitializeArray.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task1_InitializeArray\Task1_InitializeArray\obj\Debug\Task1_InitializeArray.pdb

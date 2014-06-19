@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_MaxSum\Task7_MaxSum\bin\Debug\Task7_MaxSum.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_MaxSum\Task7_MaxSum\bin\Debug\Task7_MaxSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_MaxSum\Task7_MaxSum\bin\Debug\Task7_MaxSum.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_MaxSum\Task7_MaxSum\obj\Debug\Task7_MaxSum.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_MaxSum\Task7_MaxSum\obj\Debug\Task7_MaxSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_MaxSum\Task7_MaxSum\obj\Debug\Task7_MaxSum.pdb

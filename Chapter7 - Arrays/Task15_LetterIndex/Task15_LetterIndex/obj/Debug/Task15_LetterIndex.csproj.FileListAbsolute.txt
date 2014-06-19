@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task15_LetterIndex\Task15_LetterIndex\bin\Debug\Task15_LetterIndex.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task15_LetterIndex\Task15_LetterIndex\bin\Debug\Task15_LetterIndex.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task15_LetterIndex\Task15_LetterIndex\bin\Debug\Task15_LetterIndex.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task15_LetterIndex\Task15_LetterIndex\obj\Debug\Task15_LetterIndex.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task15_LetterIndex\Task15_LetterIndex\obj\Debug\Task15_LetterIndex.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task20_PossibleSum\Task20_PossibleSum\bin\Debug\Task20_PossibleSum.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task20_PossibleSum\Task20_PossibleSum\bin\Debug\Task20_PossibleSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task20_PossibleSum\Task20_PossibleSum\bin\Debug\Task20_PossibleSum.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task20_PossibleSum\Task20_PossibleSum\obj\Debug\Task20_PossibleSum.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task20_PossibleSum\Task20_PossibleSum\obj\Debug\Task20_PossibleSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task20_PossibleSum\Task20_PossibleSum\obj\Debug\Task20_PossibleSum.pdb
