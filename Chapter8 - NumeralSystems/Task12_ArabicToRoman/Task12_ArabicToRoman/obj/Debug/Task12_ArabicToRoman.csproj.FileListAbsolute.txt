@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task12_ArabicToRoman\Task12_ArabicToRoman\bin\Debug\Task12_ArabicToRoman.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task12_ArabicToRoman\Task12_ArabicToRoman\bin\Debug\Task12_ArabicToRoman.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task12_ArabicToRoman\Task12_ArabicToRoman\bin\Debug\Task12_ArabicToRoman.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task12_ArabicToRoman\Task12_ArabicToRoman\obj\Debug\Task12_ArabicToRoman.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task12_ArabicToRoman\Task12_ArabicToRoman\obj\Debug\Task12_ArabicToRoman.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task12_ArabicToRoman\Task12_ArabicToRoman\obj\Debug\Task12_ArabicToRoman.pdb

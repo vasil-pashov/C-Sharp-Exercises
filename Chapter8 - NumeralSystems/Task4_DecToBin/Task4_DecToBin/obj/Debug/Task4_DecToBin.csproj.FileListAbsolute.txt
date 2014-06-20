@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_DecToBin\Task4_DecToBin\bin\Debug\Task4_DecToBin.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_DecToBin\Task4_DecToBin\bin\Debug\Task4_DecToBin.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_DecToBin\Task4_DecToBin\bin\Debug\Task4_DecToBin.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_DecToBin\Task4_DecToBin\obj\Debug\Task4_DecToBin.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_DecToBin\Task4_DecToBin\obj\Debug\Task4_DecToBin.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task4_DecToBin\Task4_DecToBin\obj\Debug\Task4_DecToBin.pdb

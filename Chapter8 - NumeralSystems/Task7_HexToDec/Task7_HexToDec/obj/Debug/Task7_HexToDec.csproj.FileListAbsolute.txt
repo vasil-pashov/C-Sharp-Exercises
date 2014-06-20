@@ -1,0 +1,9 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_HexToDec\Task7_HexToDec\bin\Debug\Task7_HexToDec.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_HexToDec\Task7_HexToDec\bin\Debug\Task7_HexToDec.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_HexToDec\Task7_HexToDec\bin\Debug\Task7_HexToDec.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_HexToDec\Task7_HexToDec\obj\Debug\Task7_HexToDec.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_HexToDec\Task7_HexToDec\obj\Debug\Task7_HexToDec.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task7_HexToDec\Task7_HexToDec\obj\Debug\Task7_HexToDec.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task7_HexToDec\Task7_HexToDec\bin\Debug\Task7_HexToDec.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task7_HexToDec\Task7_HexToDec\obj\Debug\Task7_HexToDec.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task7_HexToDec\Task7_HexToDec\obj\Debug\Task7_HexToDec.pdb

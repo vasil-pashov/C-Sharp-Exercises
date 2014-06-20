@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task5_BinToDec\Task5_BinToDec\bin\Debug\Task5_BinToDec.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task5_BinToDec\Task5_BinToDec\bin\Debug\Task5_BinToDec.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task5_BinToDec\Task5_BinToDec\bin\Debug\Task5_BinToDec.pdb
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task5_BinToDec\Task5_BinToDec\obj\Debug\Task5_BinToDec.exe
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task5_BinToDec\Task5_BinToDec\obj\Debug\Task5_BinToDec.pdb

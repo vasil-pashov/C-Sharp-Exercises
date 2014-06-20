@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task13_ConvertToAny\Task13_ConvertToAny\bin\Debug\Task13_ConvertToAny.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task13_ConvertToAny\Task13_ConvertToAny\bin\Debug\Task13_ConvertToAny.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task13_ConvertToAny\Task13_ConvertToAny\bin\Debug\Task13_ConvertToAny.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task13_ConvertToAny\Task13_ConvertToAny\obj\Debug\Task13_ConvertToAny.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task13_ConvertToAny\Task13_ConvertToAny\obj\Debug\Task13_ConvertToAny.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task13_ConvertToAny\Task13_ConvertToAny\obj\Debug\Task13_ConvertToAny.pdb

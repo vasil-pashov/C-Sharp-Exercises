@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task9_BinToDec\Task9_BinToDec\bin\Debug\Task9_BinToDec.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task9_BinToDec\Task9_BinToDec\bin\Debug\Task9_BinToDec.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task9_BinToDec\Task9_BinToDec\bin\Debug\Task9_BinToDec.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task9_BinToDec\Task9_BinToDec\obj\Debug\Task9_BinToDec.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task9_BinToDec\Task9_BinToDec\obj\Debug\Task9_BinToDec.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task9_BinToDec\Task9_BinToDec\obj\Debug\Task9_BinToDec.pdb

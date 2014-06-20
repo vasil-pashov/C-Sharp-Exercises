@@ -1,0 +1,1 @@
+C:\Users\Vasil\Desktop\C#\Chapter7 - Arrays\Task6_DecToHex\Task6_DecToHex\bin\Debug\Task6_DecToHex.exe.config

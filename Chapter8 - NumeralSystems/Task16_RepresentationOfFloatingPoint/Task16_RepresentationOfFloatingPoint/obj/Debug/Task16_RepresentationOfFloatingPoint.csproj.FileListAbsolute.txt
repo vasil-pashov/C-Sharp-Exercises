@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task16_RepresentationOfFloatingPoint\Task16_RepresentationOfFloatingPoint\bin\Debug\Task16_RepresentationOfFloatingPoint.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task16_RepresentationOfFloatingPoint\Task16_RepresentationOfFloatingPoint\bin\Debug\Task16_RepresentationOfFloatingPoint.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task16_RepresentationOfFloatingPoint\Task16_RepresentationOfFloatingPoint\bin\Debug\Task16_RepresentationOfFloatingPoint.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task16_RepresentationOfFloatingPoint\Task16_RepresentationOfFloatingPoint\obj\Debug\Task16_RepresentationOfFloatingPoint.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task16_RepresentationOfFloatingPoint\Task16_RepresentationOfFloatingPoint\obj\Debug\Task16_RepresentationOfFloatingPoint.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task16_RepresentationOfFloatingPoint\Task16_RepresentationOfFloatingPoint\obj\Debug\Task16_RepresentationOfFloatingPoint.pdb

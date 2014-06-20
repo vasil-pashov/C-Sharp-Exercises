@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_HexToBin\Task8_HexToBin\bin\Debug\Task8_HexToBin.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_HexToBin\Task8_HexToBin\bin\Debug\Task8_HexToBin.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_HexToBin\Task8_HexToBin\bin\Debug\Task8_HexToBin.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_HexToBin\Task8_HexToBin\obj\Debug\Task8_HexToBin.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_HexToBin\Task8_HexToBin\obj\Debug\Task8_HexToBin.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_HexToBin\Task8_HexToBin\obj\Debug\Task8_HexToBin.pdb

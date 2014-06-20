@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task11_RomanToArabic\Task11_RomanToArabic\bin\Debug\Task11_RomanToArabic.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task11_RomanToArabic\Task11_RomanToArabic\bin\Debug\Task11_RomanToArabic.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task11_RomanToArabic\Task11_RomanToArabic\bin\Debug\Task11_RomanToArabic.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task11_RomanToArabic\Task11_RomanToArabic\obj\Debug\Task11_RomanToArabic.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task11_RomanToArabic\Task11_RomanToArabic\obj\Debug\Task11_RomanToArabic.pdb

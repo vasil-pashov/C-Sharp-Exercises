@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task10_Horner\Task10_Horner\bin\Debug\Task10_Horner.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task10_Horner\Task10_Horner\bin\Debug\Task10_Horner.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task10_Horner\Task10_Horner\bin\Debug\Task10_Horner.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task10_Horner\Task10_Horner\obj\Debug\Task10_Horner.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task10_Horner\Task10_Horner\obj\Debug\Task10_Horner.pdb
