@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task10_Factoriel\Task10_Factoriel\bin\Debug\Task10_Factoriel.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task10_Factoriel\Task10_Factoriel\bin\Debug\Task10_Factoriel.exe
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task10_Factoriel\Task10_Factoriel\bin\Debug\Task10_Factoriel.pdb
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task10_Factoriel\Task10_Factoriel\obj\Debug\Task10_Factoriel.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task10_Factoriel\Task10_Factoriel\obj\Debug\Task10_Factoriel.exe
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task10_Factoriel\Task10_Factoriel\obj\Debug\Task10_Factoriel.pdb

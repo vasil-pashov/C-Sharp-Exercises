@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task2_GetMax\Task2_GetMax\bin\Debug\Task2_GetMax.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task2_GetMax\Task2_GetMax\bin\Debug\Task2_GetMax.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task2_GetMax\Task2_GetMax\bin\Debug\Task2_GetMax.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task2_GetMax\Task2_GetMax\obj\Debug\Task2_GetMax.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task2_GetMax\Task2_GetMax\obj\Debug\Task2_GetMax.pdb

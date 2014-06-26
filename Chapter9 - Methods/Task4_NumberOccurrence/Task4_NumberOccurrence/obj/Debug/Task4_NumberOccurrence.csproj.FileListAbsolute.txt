@@ -1,0 +1,2 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task4_NumberOccurrence\Task4_NumberOccurrence\bin\Debug\Task4_NumberOccurrence.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task4_NumberOccurrence\Task4_NumberOccurrence\bin\Debug\Task4_NumberOccurrence.exe.config

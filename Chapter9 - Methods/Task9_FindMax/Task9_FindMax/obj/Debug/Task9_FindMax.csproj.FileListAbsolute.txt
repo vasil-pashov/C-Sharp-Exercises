@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task9_FindMax\Task9_FindMax\bin\Debug\Task9_FindMax.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task9_FindMax\Task9_FindMax\bin\Debug\Task9_FindMax.exe
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task9_FindMax\Task9_FindMax\bin\Debug\Task9_FindMax.pdb
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task9_FindMax\Task9_FindMax\obj\Debug\Task9_FindMax.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task9_FindMax\Task9_FindMax\obj\Debug\Task9_FindMax.exe
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task9_FindMax\Task9_FindMax\obj\Debug\Task9_FindMax.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task7_PrintReversed\Task7_PrintReversed\bin\Debug\Task7_PrintReversed.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task7_PrintReversed\Task7_PrintReversed\bin\Debug\Task7_PrintReversed.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task7_PrintReversed\Task7_PrintReversed\bin\Debug\Task7_PrintReversed.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task7_PrintReversed\Task7_PrintReversed\obj\Debug\Task7_PrintReversed.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task7_PrintReversed\Task7_PrintReversed\obj\Debug\Task7_PrintReversed.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task7_PrintReversed\Task7_PrintReversed\obj\Debug\Task7_PrintReversed.pdb

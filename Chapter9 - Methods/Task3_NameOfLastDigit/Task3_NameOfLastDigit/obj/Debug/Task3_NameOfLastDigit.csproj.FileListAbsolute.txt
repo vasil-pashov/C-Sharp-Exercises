@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task3_NameOfLastDigit\Task3_NameOfLastDigit\bin\Debug\Task3_NameOfLastDigit.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task3_NameOfLastDigit\Task3_NameOfLastDigit\bin\Debug\Task3_NameOfLastDigit.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task3_NameOfLastDigit\Task3_NameOfLastDigit\bin\Debug\Task3_NameOfLastDigit.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task3_NameOfLastDigit\Task3_NameOfLastDigit\obj\Debug\Task3_NameOfLastDigit.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task3_NameOfLastDigit\Task3_NameOfLastDigit\obj\Debug\Task3_NameOfLastDigit.pdb

@@ -1,0 +1,6 @@
+D:\programming\C#\MethodsExercise12\MethodsExercise12\bin\Debug\MethodsExercise12.exe.config
+D:\programming\C#\MethodsExercise12\MethodsExercise12\bin\Debug\MethodsExercise12.exe
+D:\programming\C#\MethodsExercise12\MethodsExercise12\bin\Debug\MethodsExercise12.pdb
+D:\programming\C#\MethodsExercise12\MethodsExercise12\obj\Debug\MethodsExercise12.csprojResolveAssemblyReference.cache
+D:\programming\C#\MethodsExercise12\MethodsExercise12\obj\Debug\MethodsExercise12.exe
+D:\programming\C#\MethodsExercise12\MethodsExercise12\obj\Debug\MethodsExercise12.pdb

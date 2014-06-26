@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_LargeNumbers\Task8_LargeNumbers\bin\Debug\Task8_LargeNumbers.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_LargeNumbers\Task8_LargeNumbers\bin\Debug\Task8_LargeNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_LargeNumbers\Task8_LargeNumbers\bin\Debug\Task8_LargeNumbers.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_LargeNumbers\Task8_LargeNumbers\obj\Debug\Task8_LargeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_LargeNumbers\Task8_LargeNumbers\obj\Debug\Task8_LargeNumbers.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task8_LargeNumbers\Task8_LargeNumbers\obj\Debug\Task8_LargeNumbers.pdb

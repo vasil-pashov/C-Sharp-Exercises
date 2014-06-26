@@ -1,0 +1,9 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task5_IsLargerThanNeighbours\Task5_IsLargerThanNeighbours\bin\Debug\Task5_IsLargerThanNeighbours.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task5_IsLargerThanNeighbours\Task5_IsLargerThanNeighbours\bin\Debug\Task5_IsLargerThanNeighbours.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task5_IsLargerThanNeighbours\Task5_IsLargerThanNeighbours\bin\Debug\Task5_IsLargerThanNeighbours.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task5_IsLargerThanNeighbours\Task5_IsLargerThanNeighbours\obj\Debug\Task5_IsLargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task5_IsLargerThanNeighbours\Task5_IsLargerThanNeighbours\obj\Debug\Task5_IsLargerThanNeighbours.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task5_IsLargerThanNeighbours\Task5_IsLargerThanNeighbours\obj\Debug\Task5_IsLargerThanNeighbours.pdb
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task5_IsLargerThanNeighbours\Task5_IsLargerThanNeighbours\bin\Debug\Task5_IsLargerThanNeighbours.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task5_IsLargerThanNeighbours\Task5_IsLargerThanNeighbours\obj\Debug\Task5_IsLargerThanNeighbours.exe
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task5_IsLargerThanNeighbours\Task5_IsLargerThanNeighbours\obj\Debug\Task5_IsLargerThanNeighbours.pdb

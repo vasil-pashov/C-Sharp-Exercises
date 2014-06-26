@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task1_WriteName\Task1_WriteName\bin\Debug\Task1_WriteName.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task1_WriteName\Task1_WriteName\bin\Debug\Task1_WriteName.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task1_WriteName\Task1_WriteName\bin\Debug\Task1_WriteName.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task1_WriteName\Task1_WriteName\obj\Debug\Task1_WriteName.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task1_WriteName\Task1_WriteName\obj\Debug\Task1_WriteName.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task1_WriteName\Task1_WriteName\obj\Debug\Task1_WriteName.pdb

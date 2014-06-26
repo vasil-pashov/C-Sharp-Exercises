@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task11_FuncMenu\Task11_FuncMenu\bin\Debug\Task11_FuncMenu.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task11_FuncMenu\Task11_FuncMenu\bin\Debug\Task11_FuncMenu.exe
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task11_FuncMenu\Task11_FuncMenu\bin\Debug\Task11_FuncMenu.pdb
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task11_FuncMenu\Task11_FuncMenu\obj\Debug\Task11_FuncMenu.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task11_FuncMenu\Task11_FuncMenu\obj\Debug\Task11_FuncMenu.exe
+C:\Users\Vasil\Desktop\C#\Chapter9 - Methods\Task11_FuncMenu\Task11_FuncMenu\obj\Debug\Task11_FuncMenu.pdb

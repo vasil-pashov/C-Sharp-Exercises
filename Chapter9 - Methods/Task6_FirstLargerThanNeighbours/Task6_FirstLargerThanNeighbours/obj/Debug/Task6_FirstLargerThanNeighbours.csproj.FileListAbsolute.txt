@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task6_FirstLargerThanNeighbours\Task6_FirstLargerThanNeighbours\bin\Debug\Task6_FirstLargerThanNeighbours.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task6_FirstLargerThanNeighbours\Task6_FirstLargerThanNeighbours\obj\Debug\Task6_FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task6_FirstLargerThanNeighbours\Task6_FirstLargerThanNeighbours\bin\Debug\Task6_FirstLargerThanNeighbours.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task6_FirstLargerThanNeighbours\Task6_FirstLargerThanNeighbours\bin\Debug\Task6_FirstLargerThanNeighbours.pdb
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task6_FirstLargerThanNeighbours\Task6_FirstLargerThanNeighbours\obj\Debug\Task6_FirstLargerThanNeighbours.exe
+C:\Users\Vasil\Desktop\C#\Chapter8 - NumeralSystems\Task6_FirstLargerThanNeighbours\Task6_FirstLargerThanNeighbours\obj\Debug\Task6_FirstLargerThanNeighbours.pdb
