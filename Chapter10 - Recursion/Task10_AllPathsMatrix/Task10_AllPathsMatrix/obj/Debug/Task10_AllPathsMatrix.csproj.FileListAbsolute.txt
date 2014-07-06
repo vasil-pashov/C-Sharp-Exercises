@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task10_AllPathsMatrix\Task10_AllPathsMatrix\bin\Debug\Task10_AllPathsMatrix.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task10_AllPathsMatrix\Task10_AllPathsMatrix\bin\Debug\Task10_AllPathsMatrix.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task10_AllPathsMatrix\Task10_AllPathsMatrix\bin\Debug\Task10_AllPathsMatrix.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task10_AllPathsMatrix\Task10_AllPathsMatrix\obj\Debug\Task10_AllPathsMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task10_AllPathsMatrix\Task10_AllPathsMatrix\obj\Debug\Task10_AllPathsMatrix.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task10_AllPathsMatrix\Task10_AllPathsMatrix\obj\Debug\Task10_AllPathsMatrix.pdb

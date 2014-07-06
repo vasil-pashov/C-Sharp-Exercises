@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task2_CombWithRep\Task2_CombWithRep\bin\Debug\Task2_CombWithRep.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task2_CombWithRep\Task2_CombWithRep\bin\Debug\Task2_CombWithRep.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task2_CombWithRep\Task2_CombWithRep\bin\Debug\Task2_CombWithRep.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task2_CombWithRep\Task2_CombWithRep\obj\Debug\Task2_CombWithRep.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task2_CombWithRep\Task2_CombWithRep\obj\Debug\Task2_CombWithRep.pdb

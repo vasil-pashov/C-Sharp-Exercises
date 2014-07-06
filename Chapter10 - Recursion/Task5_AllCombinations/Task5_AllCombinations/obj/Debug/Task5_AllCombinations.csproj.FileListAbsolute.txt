@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task5_AllCombinations\Task5_AllCombinations\bin\Debug\Task5_AllCombinations.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task5_AllCombinations\Task5_AllCombinations\bin\Debug\Task5_AllCombinations.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task5_AllCombinations\Task5_AllCombinations\bin\Debug\Task5_AllCombinations.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task5_AllCombinations\Task5_AllCombinations\obj\Debug\Task5_AllCombinations.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task5_AllCombinations\Task5_AllCombinations\obj\Debug\Task5_AllCombinations.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task9_ExistingSum\Task9_ExistingSum\bin\Debug\Task9_ExistingSum.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task9_ExistingSum\Task9_ExistingSum\bin\Debug\Task9_ExistingSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task9_ExistingSum\Task9_ExistingSum\bin\Debug\Task9_ExistingSum.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task9_ExistingSum\Task9_ExistingSum\obj\Debug\Task9_ExistingSum.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task9_ExistingSum\Task9_ExistingSum\obj\Debug\Task9_ExistingSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task9_ExistingSum\Task9_ExistingSum\obj\Debug\Task9_ExistingSum.pdb

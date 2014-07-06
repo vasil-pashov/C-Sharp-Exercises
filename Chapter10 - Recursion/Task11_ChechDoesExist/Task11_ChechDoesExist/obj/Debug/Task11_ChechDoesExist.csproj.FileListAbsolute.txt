@@ -1,0 +1,5 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task11_ChechDoesExist\Task11_ChechDoesExist\bin\Debug\Task11_ChechDoesExist.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task11_ChechDoesExist\Task11_ChechDoesExist\bin\Debug\Task11_ChechDoesExist.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task11_ChechDoesExist\Task11_ChechDoesExist\bin\Debug\Task11_ChechDoesExist.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task11_ChechDoesExist\Task11_ChechDoesExist\obj\Debug\Task11_ChechDoesExist.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task11_ChechDoesExist\Task11_ChechDoesExist\obj\Debug\Task11_ChechDoesExist.pdb

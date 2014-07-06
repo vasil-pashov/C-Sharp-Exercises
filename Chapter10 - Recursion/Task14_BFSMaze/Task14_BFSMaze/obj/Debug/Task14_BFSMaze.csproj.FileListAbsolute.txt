@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task14_BFSMaze\Task14_BFSMaze\bin\Debug\Task14_BFSMaze.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task14_BFSMaze\Task14_BFSMaze\obj\Debug\Task14_BFSMaze.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task14_BFSMaze\Task14_BFSMaze\bin\Debug\Task14_BFSMaze.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task14_BFSMaze\Task14_BFSMaze\bin\Debug\Task14_BFSMaze.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task14_BFSMaze\Task14_BFSMaze\obj\Debug\Task14_BFSMaze.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task14_BFSMaze\Task14_BFSMaze\obj\Debug\Task14_BFSMaze.pdb

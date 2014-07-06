@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task6_MergeSort\Task6_MergeSort\bin\Debug\Task6_MergeSort.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task6_MergeSort\Task6_MergeSort\bin\Debug\Task6_MergeSort.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task6_MergeSort\Task6_MergeSort\bin\Debug\Task6_MergeSort.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task6_MergeSort\Task6_MergeSort\obj\Debug\Task6_MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task6_MergeSort\Task6_MergeSort\obj\Debug\Task6_MergeSort.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task6_MergeSort\Task6_MergeSort\obj\Debug\Task6_MergeSort.pdb

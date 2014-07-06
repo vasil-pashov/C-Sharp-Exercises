@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task3_Variations\Task3_Variations\bin\Debug\Task3_Variations.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task3_Variations\Task3_Variations\bin\Debug\Task3_Variations.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task3_Variations\Task3_Variations\bin\Debug\Task3_Variations.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task3_Variations\Task3_Variations\obj\Debug\Task3_Variations.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task3_Variations\Task3_Variations\obj\Debug\Task3_Variations.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task3_Variations\Task3_Variations\obj\Debug\Task3_Variations.pdb

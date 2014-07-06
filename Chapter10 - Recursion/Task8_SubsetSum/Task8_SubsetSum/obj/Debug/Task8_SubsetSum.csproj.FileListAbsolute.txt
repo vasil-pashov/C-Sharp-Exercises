@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task8_SubsetSum\Task8_SubsetSum\bin\Debug\Task8_SubsetSum.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task8_SubsetSum\Task8_SubsetSum\bin\Debug\Task8_SubsetSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task8_SubsetSum\Task8_SubsetSum\bin\Debug\Task8_SubsetSum.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task8_SubsetSum\Task8_SubsetSum\obj\Debug\Task8_SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task8_SubsetSum\Task8_SubsetSum\obj\Debug\Task8_SubsetSum.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task8_SubsetSum\Task8_SubsetSum\obj\Debug\Task8_SubsetSum.pdb

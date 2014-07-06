@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task12_LargestArea\Task12_LargestArea\bin\Debug\Task12_LargestArea.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task12_LargestArea\Task12_LargestArea\bin\Debug\Task12_LargestArea.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task12_LargestArea\Task12_LargestArea\bin\Debug\Task12_LargestArea.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task12_LargestArea\Task12_LargestArea\obj\Debug\Task12_LargestArea.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task12_LargestArea\Task12_LargestArea\obj\Debug\Task12_LargestArea.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task12_LargestArea\Task12_LargestArea\obj\Debug\Task12_LargestArea.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task7_Permutations\Task7_Permutations\bin\Debug\Task7_Permutations.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task7_Permutations\Task7_Permutations\bin\Debug\Task7_Permutations.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task7_Permutations\Task7_Permutations\bin\Debug\Task7_Permutations.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task7_Permutations\Task7_Permutations\obj\Debug\Task7_Permutations.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task7_Permutations\Task7_Permutations\obj\Debug\Task7_Permutations.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task7_Permutations\Task7_Permutations\obj\Debug\Task7_Permutations.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task15_DFSOnDriveC\Task15_DFSOnDriveC\bin\Debug\Task15_DFSOnDriveC.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task15_DFSOnDriveC\Task15_DFSOnDriveC\bin\Debug\Task15_DFSOnDriveC.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task15_DFSOnDriveC\Task15_DFSOnDriveC\bin\Debug\Task15_DFSOnDriveC.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task15_DFSOnDriveC\Task15_DFSOnDriveC\obj\Debug\Task15_DFSOnDriveC.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task15_DFSOnDriveC\Task15_DFSOnDriveC\obj\Debug\Task15_DFSOnDriveC.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task15_DFSOnDriveC\Task15_DFSOnDriveC\obj\Debug\Task15_DFSOnDriveC.pdb

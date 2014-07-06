@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task13_AllPassable\Task13_AllPassable\bin\Debug\Task13_AllPassable.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task13_AllPassable\Task13_AllPassable\bin\Debug\Task13_AllPassable.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task13_AllPassable\Task13_AllPassable\bin\Debug\Task13_AllPassable.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task13_AllPassable\Task13_AllPassable\obj\Debug\Task13_AllPassable.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task13_AllPassable\Task13_AllPassable\obj\Debug\Task13_AllPassable.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task13_AllPassable\Task13_AllPassable\obj\Debug\Task13_AllPassable.pdb

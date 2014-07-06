@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task4_WordComb\Task4_WordComb\bin\Debug\Task4_WordComb.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task4_WordComb\Task4_WordComb\bin\Debug\Task4_WordComb.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task4_WordComb\Task4_WordComb\bin\Debug\Task4_WordComb.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task4_WordComb\Task4_WordComb\obj\Debug\Task4_WordComb.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task4_WordComb\Task4_WordComb\obj\Debug\Task4_WordComb.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task4_WordComb\Task4_WordComb\obj\Debug\Task4_WordComb.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task1_SimulateNestedLoops\Task1_SimulateNestedLoops\bin\Debug\Task1_SimulateNestedLoops.exe.config
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task1_SimulateNestedLoops\Task1_SimulateNestedLoops\obj\Debug\Task1_SimulateNestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task1_SimulateNestedLoops\Task1_SimulateNestedLoops\bin\Debug\Task1_SimulateNestedLoops.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task1_SimulateNestedLoops\Task1_SimulateNestedLoops\bin\Debug\Task1_SimulateNestedLoops.pdb
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task1_SimulateNestedLoops\Task1_SimulateNestedLoops\obj\Debug\Task1_SimulateNestedLoops.exe
+C:\Users\Vasil\Desktop\C#\Chapter10 - Recursion\Task1_SimulateNestedLoops\Task1_SimulateNestedLoops\obj\Debug\Task1_SimulateNestedLoops.pdb
